@@ -1,3 +1,3 @@
 # machine-learning-notes
 
-[Week 1](AndrewNG/Week1.md)
+[Week 1](AndrewNg/Week1.md)
